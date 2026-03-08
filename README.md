@@ -25,12 +25,11 @@ Le projet consiste à concevoir et implémenter une base de données permettant 
   Nous avons également défini les relations entre ces différentes entités afin
 d'assurer une organisation cohérente des informations relatives aux compétitions sportives.
 
-Ce projet inclut :
-
-  -la conception du **schéma de base de données**
-  -la création des **tables et contraintes**
-  -l’implémentation de **vues, triggers et procédures**
-  -l’exécution de **requêtes SQL avec jointures et statistiques**
+# Ce projet inclut :
+     -la conception du **schéma de base de données**
+      -la création des **tables et contraintes**
+      -l’implémentation de **vues, triggers et procédures**
+      -l’exécution de **requêtes SQL avec jointures et statistiques**
 
 # Technologies utilisées
 
