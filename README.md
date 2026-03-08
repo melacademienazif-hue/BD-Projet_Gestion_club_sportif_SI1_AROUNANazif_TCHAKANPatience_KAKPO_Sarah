@@ -39,10 +39,8 @@ Ce projet inclut :
 ### Outils
   -SQL Server Management Studio (SSMS)
         https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms
-
   -Draw.io (modélisation et diagrammes)
         https://www.drawio.com/
-  
   -Docker (conteneurisation de la base de données)
         https://www.docker.com/
 
