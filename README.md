@@ -4,23 +4,23 @@ Ce dépôt contient le projet de base de données réalisé dans le cadre du cou
 Le projet consiste à concevoir et implémenter une base de données permettant la **gestion d’un club sportif ou d’une ligue sportive**, incluant la gestion des équipes, joueurs, entraîneurs, compétitions, matchs et scores.
 
 ## Membres du groupe (Groupe 22)
-  -AROUNA Nazif** – SI1 – Nazif7-alt@github
-  -TCHAKAN Oloré Patience**
-  -KAKPO Sara Holo**
+  -AROUNA Nazif – SI1 – Nazif7-alt@github
+  -TCHAKAN Oloré Patience - SI
+  -KAKPO Sara Holo - SI
 
 # Résumé du projet
   Dans ce projet, nous avons réalisé la modélisation et l’implémentation d’une 
 base de données relationnelle destinée à la gestion des compétitions sportives.
 
 -La base de données permet notamment de gérer :
-   =les equipes
-   =les joueurs internationaux
-   =les entraîneurs
-   =les compétitions
-   =les matchs
-   =les scores
-   =les stades
-   =les licences
+    =les equipes
+    =les joueurs internationaux
+    =les entraîneurs
+    =les compétitions
+    =les matchs
+    =les score
+    =les stades
+    =les licences
 
   Nous avons également défini les relations entre ces différentes entités afin
 d'assurer une organisation cohérente des informations relatives aux compétitions sportives.
@@ -37,11 +37,11 @@ Ce projet inclut :
 ### SGBD
   Microsoft SQL Server
 ### Outils
-  -SQL Server Management Studio (SSMS)
+    -SQL Server Management Studio (SSMS)
         https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms
-  -Draw.io (modélisation et diagrammes)
+    -Draw.io (modélisation et diagrammes)
         https://www.drawio.com/
-  -Docker (conteneurisation de la base de données)
+    -Docker (conteneurisation de la base de données)
         https://www.docker.com/
 
   # Structure du projet
