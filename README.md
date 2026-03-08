@@ -190,4 +190,4 @@ ON j.idequipe = e.idequipe;
 
 # Licence
 
-Projet académique réalisé dans le cadre du cours de **Systèmes d’Information (SI1)**.
+Projet académique réalisé dans le cadre du cours de **D'initiation à la Base de donnée et sql  (SI1)**.
