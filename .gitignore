@@ -1,0 +1,41 @@
+# FICHIERS SYSTÈME
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# DOSSIERS TEMPORAIRES
+tmp/
+temp/
+*.tmp
+*.log
+
+# FICHIERS SQL SERVER LOCAUX
+
+*.mdf
+*.ldf
+*.bak
+*.trn
+
+# CACHE ET CONFIGURATION IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# PYTHON (si scripts futurs)
+**pycache**/
+*.pyc
+
+# NODE (si outils frontend)
+node_modules/
+
+# DOCKER
+docker-data/
+docker-volumes/
+
+# FICHIERS DE TEST LOCAUX
+*.csv.tmp
+*.sqlite
+*.db
