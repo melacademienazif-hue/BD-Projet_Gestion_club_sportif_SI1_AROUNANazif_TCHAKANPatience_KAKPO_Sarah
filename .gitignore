@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build and Release Folders
 bin-debug/
 bin-release/
@@ -16,3 +17,46 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+=======
+# FICHIERS SYSTÈME
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# DOSSIERS TEMPORAIRES
+tmp/
+temp/
+*.tmp
+*.log
+
+# FICHIERS SQL SERVER LOCAUX
+
+*.mdf
+*.ldf
+*.bak
+*.trn
+
+# CACHE ET CONFIGURATION IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# PYTHON (si scripts futurs)
+**pycache**/
+*.pyc
+
+# NODE (si outils frontend)
+node_modules/
+
+# DOCKER
+docker-data/
+docker-volumes/
+
+# FICHIERS DE TEST LOCAUX
+*.csv.tmp
+*.sqlite
+*.db
+>>>>>>> dbb6990 (Encore un commit pour envoyer quelques fichier du projet)

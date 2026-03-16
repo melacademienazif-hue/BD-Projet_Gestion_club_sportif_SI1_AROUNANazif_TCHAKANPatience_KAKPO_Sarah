@@ -1,0 +1,5 @@
+id_macth,dates,heure,type_lieu,buts_equipe1,buts_equipe2,id_competitions
+201,2019,8,londdre,5,2,1
+209,2021,8,londdre,6,0,2
+207,2022,8,londdre,9,0,3
+210,2023,8,londdre,8,9,4

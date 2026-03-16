@@ -1,0 +1,19 @@
+version: "3.9"
+
+services:
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: club_sportif_sqlserver
+
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "AROUNA@P5050!"
+
+    ports:
+      - "1433:1433"
+
+    volumes:
+      - ../sql:/scripts
+
+    restart: always
